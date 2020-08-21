@@ -1,4 +1,4 @@
-*"I'm Spekkio, the Master of ~War~ GitHub!"*
+### *"I'm Spekkio, the Master of ~War~ GitHub!"*
 
 Spekkio is a set of tools and services that delivers a better developer experience to teams on GitHub by automating tedious things.
 
@@ -6,6 +6,6 @@ Spekkio is a set of tools and services that delivers a better developer experien
   <img width="128" src="https://github.com/spekkio-bot/spekkio-bot/blob/master/spekkio.png">
 </p>
 
-Spekkio (Core): https://github.com/spekkio-bot/spekkio
+[Spekkio (Core)](https://github.com/spekkio-bot/spekkio): Core services and APIs
 
-Command Line Interface: https://github.com/spekkio-bot/spekkio-cli
+[Command Line Interface](https://github.com/spekkio-bot/spekkio-cli): Tool for directly accessing / invoking core services
